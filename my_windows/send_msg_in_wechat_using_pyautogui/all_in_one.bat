@@ -1,0 +1,1 @@
+cmd /c C:\Users\A\AppData\Local\Programs\Python\Python37\python.exe D:\local_backup\test.py
