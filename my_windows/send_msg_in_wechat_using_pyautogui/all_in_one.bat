@@ -1,1 +1,1 @@
-cmd /c C:\Users\A\AppData\Local\Programs\Python\Python37\python.exe D:\local_backup\test.py
+cmd /c C:\Users\A\AppData\Local\Programs\Python\Python37\python.exe D:\local_backup\my_windows\send_msg_in_wechat_using_pyautogui\for_my_dear_lulu.py
